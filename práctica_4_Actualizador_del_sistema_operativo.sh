@@ -18,7 +18,7 @@ sudo apt update
 
 # Upgrade
 
-sudo apt upgrade
+sudo apt upgrade -y
 
 # Limpiar archivos antiguos o deprecated.
 
