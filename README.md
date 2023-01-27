@@ -7,3 +7,7 @@ Prácticas de Scripting en Bash (de más simples a más complejas).
 ## Práctica 2 --> ¿Cual es mi Ip? 
 
 ## Práctica 3 --> Descompresor de Archivos
+
+## Práctica 4 --> Actualizador del SO
+
+
